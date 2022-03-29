@@ -1,9 +1,7 @@
 # 这里是 Rebase Community
 
-是由中国的 Web3.0 开发者们在业余时间凭热爱建立的开发者社区，源自2018年，于2019年改名 Rebase 社区。
+是由中国的 Web3.0 开发者们在业余时间凭热爱建立的开发者社区
 
-
-## 交流群
 Discord: https://discord.gg/9BATkxjfXS  
 Telegram: https://t.me/rebasenetwork  
 微信公众号：**rebase_network**  
