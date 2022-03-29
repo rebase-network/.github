@@ -4,9 +4,9 @@
 
 
 ## 交流群
-Discord: https://discord.gg/9BATkxjfXS 
-Telegram: https://t.me/rebasenetwork 
-微信公众号：rebase_network
+Discord: https://discord.gg/9BATkxjfXS  
+Telegram: https://t.me/rebasenetwork  
+微信公众号：rebase_network  
 
 
 ## 社区内容
