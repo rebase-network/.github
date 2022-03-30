@@ -6,6 +6,7 @@ Discord: https://discord.gg/9BATkxjfXS
 Telegram: https://t.me/rebasenetwork  
 微信公众号：**rebase_network**  
 QQ群：**1001507060**  
+网站: https://rebase.network  
 
 ---
 
