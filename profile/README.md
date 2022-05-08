@@ -14,6 +14,8 @@ QQ群：**1001507060**
 
 网站: https://rebase.network
 
+Github：https://github.com/rebase-network
+
 ---
 
 [[Rebase大学](https://github.com/rebase-network/work-groups/blob/main/README.md#rebase大学)] [[Rostra](https://github.com/rebase-network/work-groups/blob/main/README.md#rostra)] [[Rebase D. Ventures](https://github.com/rebase-network/work-groups/blob/main/README.md#rebase-d-ventures)]
