@@ -10,6 +10,8 @@ Telegram: https://t.me/rebasenetwork
 
 微信公众号：**rebase_network**
 
+B站：https://space.bilibili.com/382886213
+
 QQ群：**1001507060**
 
 网站: https://rebase.network
