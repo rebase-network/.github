@@ -1,13 +1,18 @@
 # 这里是 Rebase Community
 
-是由中国的 Web3.0 开发者们在业余时间凭热爱建立的开发者社区
+Rebase 是由中国的 Web3.0 开发者们在业余时间凭热爱建立的开发者社区
 
-Twitter: https://twitter.com/RebaseCommunity  
-Discord: https://discord.gg/9BATkxjfXS  
-Telegram: https://t.me/rebasenetwork  
-微信公众号：**rebase_network**  
-QQ群：**1001507060**  
-网站: https://rebase.network  
+Twitter: https://twitter.com/RebaseCommunity
+
+Discord: https://discord.gg/9BATkxjfXS
+
+Telegram: https://t.me/rebasenetwork
+
+微信公众号：**rebase_network**
+
+QQ群：**1001507060**
+
+网站: https://rebase.network
 
 ---
 
