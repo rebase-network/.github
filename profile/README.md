@@ -23,5 +23,3 @@ Twitter：https://twitter.com/RebaseCommunity  |  Discord：https://discord.gg/9
 Telegram：https://t.me/rebasenetwork
 
 微信公众号：**rebase_network**  ||  QQ群：**1001507060**
-
-<img src="https://raw.githubusercontent.com/rebase-network/brand-assets/main/rebase-qr.png" alt="Rebase社区微信公众号" width="200">
