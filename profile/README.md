@@ -6,7 +6,7 @@ Rebase Community 是由中国的 Web3.0 开发者们在业余时间用热爱建�
 
 [[Rebase CodingDay](https://github.com/rebase-network/work-groups/blob/main/README.md#rebase-codingday)] [[Rebase Hackathon](https://github.com/rebase-network/work-groups/blob/main/README.md#rebase-hackathon)] [[Web3极客日报](https://github.com/rebase-network/work-groups/blob/main/README.md#web3极客日报)]
 
-[[Who is hiring](https://github.com/rebase-network/who-is-hiring)] [[Event Pool](https://github.com/rebase-network/event-pool)]
+[[Who is hiring](https://github.com/rebase-network/who-is-hiring)] [[Event Pool](https://github.com/rebase-network/event-pool)] [[社区福利](https://github.com/rebase-network/benefits)]
 
 ---
 
