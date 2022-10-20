@@ -1,16 +1,14 @@
-# 这里是 Rebase Community
+# 我们是 Rebase Community
 
-Rebase 是由中国的 Web3.0 开发者们在业余时间凭热爱建立的开发者社区
+Rebase Community 是由中国的 Web3.0 开发者们在业余时间用热爱建立的开发者社区。Rebase Community 是非盈利、公益性的开发社区，专注于 Web3.0 技术交流，目前已经创立多个栏目板块为开发者们进行交流提供场所。
 
-Twitter：https://twitter.com/RebaseCommunity
+[[Rebase大学](https://github.com/rebase-network/Rebase-University)] [[Rebase D. Ventures](https://rebased.ventures)]
 
-Discord：https://discord.gg/9BATkxjfXS
+[[Rebase CodingDay](https://github.com/rebase-network/work-groups/blob/main/README.md#rebase-codingday)] [[Rebase Hackathon](https://github.com/rebase-network/work-groups/blob/main/README.md#rebase-hackathon)] [[Web3极客日报](https://github.com/rebase-network/work-groups/blob/main/README.md#web3极客日报)]
 
-Telegram：https://t.me/rebasenetwork
+[[Who is hiring](https://github.com/rebase-network/who-is-hiring)] [[Event Pool](https://github.com/rebase-network/event-pool)]
 
-微信公众号：**rebase_network**
-
-QQ群：**1001507060**
+---
 
 网站：https://rebase.network
 
@@ -18,10 +16,12 @@ Github：https://github.com/rebase-network
 
 B站：https://space.bilibili.com/382886213
 
----
+YouTube: https://www.youtube.com/channel/UCHBt2olJlUSOLv4n69UmHmg
 
-[[Rebase大学](https://github.com/rebase-network/work-groups/blob/main/README.md#rebase大学)] [[Rebase D. Ventures](https://github.com/rebase-network/work-groups/blob/main/README.md#rebase-d-ventures)]
+Twitter：https://twitter.com/RebaseCommunity  |  Discord：https://discord.gg/9BATkxjfXS
 
-[[Rebase CodingDay](https://github.com/rebase-network/work-groups/blob/main/README.md#rebase-codingday)] [[Rebase Hackathon](https://github.com/rebase-network/work-groups/blob/main/README.md#rebase-hackathon)] [[Web3极客日报](https://github.com/rebase-network/work-groups/blob/main/README.md#web3极客日报)]
+Telegram：https://t.me/rebasenetwork
 
-[[Who is hiring](https://github.com/rebase-network/work-groups/blob/main/README.md#who-is-hiring)] [[Event Pool](https://github.com/rebase-network/work-groups/blob/main/README.md#event-pool)]
+微信公众号：**rebase_network**  ||  QQ群：**1001507060**
+
+<img src="https://raw.githubusercontent.com/rebase-network/brand-assets/main/rebase-qr.png" alt="Rebase社区微信公众号" width="200">
