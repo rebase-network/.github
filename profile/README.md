@@ -14,7 +14,7 @@ Rebase Community 是由中国的 Web3.0 开发者们在业余时间用热爱建�
 
 B站：https://space.bilibili.com/382886213
 
-YouTube: https://www.youtube.com/channel/UCHBt2olJlUSOLv4n69UmHmg
+YouTube: https://www.youtube.com/@rebasecommunity
 
 Twitter：https://twitter.com/RebaseCommunity  |  Discord：https://discord.gg/9BATkxjfXS
 
