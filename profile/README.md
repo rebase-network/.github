@@ -1,6 +1,6 @@
 # 我们是 Rebase Community
 
-Rebase Community 是由中国的 Web3.0 开发者们在业余时间用热爱建立的开发者社区。Rebase Community 是非盈利、公益性的开发社区，专注于 Web3.0 技术交流，目前已经创立多个栏目板块为开发者们进行交流提供场所。
+Rebase Community 是由中国的 Web3.0 开发者们在业余时间用热爱建立的开发者社区。Rebase Community 是非营利、公益性的开发社区，专注于 Web3.0 技术交流，目前已经创立多个栏目板块为开发者们进行交流提供场所。
 
 [[Rebase大学](https://github.com/rebase-network/Rebase-University)] [[Rebase D. Ventures](https://rebased.ventures)]
 
