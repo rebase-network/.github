@@ -1,0 +1,3 @@
+# Who are we?
+Rebase is a non-profit developer community founded by a group of Chinese Web3 developers. More than 1500 developers and 8000 crypto enthusiasts have joined our community. Developers learn and develop dApps together, hosting online reviews of popular blockchain projects, and recording videos to share on bilibili.com and youtube.com. Also, as a part of togETHer, an organization founded by fans of Ethereum, Rebase organizes many activities in China. 
+Currently, Rebase has several sub-groups focused on different areas. Web3 Daily, Rebase University, Rebase Hackathon, Who-Is-Hiring, Rebase D. Ventures, and CodingDay.
