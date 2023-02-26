@@ -21,3 +21,12 @@ Twitter：https://twitter.com/RebaseCommunity  |  Discord：https://discord.gg/9
 Telegram：https://t.me/rebasenetwork
 
 微信公众号：**rebase_network**  ||  QQ群：**1001507060**
+
+---
+
+Rebase 社区当前接受捐赠多签地址如下
+
+Ethereum 地址: 0xC8ecB38d26205BCeec31310806FA5e29F7426ADb
+
+Polygon 地址: 0x843BF7AdEbCe362a9Dbb42a8bD460f4bE0f6ccBD  
+
