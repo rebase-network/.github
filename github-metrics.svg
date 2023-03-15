@@ -199,14 +199,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 318kb of code in 177 edited files across 44 commits over last 14 days</small>
+                <small>estimation from 197kb of code in 120 edited files across 43 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.75921262211182" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="253.75921262211182" y="0" width="206.24078737788815" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="402.8614398664244" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="402.8614398664244" y="0" width="57.1385601335756" height="8" fill="#AA6746"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -218,8 +218,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>143 kB</div>
-                                <div>55.17%</div>
+                                <div>142 kB</div>
+                                <div>87.58%</div>
                             </small>
                         </div>
                     </section>
@@ -232,8 +232,8 @@
                                 Solidity
                             </div>
                             <small>
-                                <div>116 kB</div>
-                                <div>44.83%</div>
+                                <div>20.2 kB</div>
+                                <div>12.42%</div>
                             </small>
                         </div>
                     </section>
@@ -344,8 +344,8 @@
                             16
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -364,8 +364,8 @@
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             21
                         </div>
                         <div class="entry">
@@ -424,7 +424,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 14 Mar 2023, 10:03:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 15 Mar 2023, 10:13:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
