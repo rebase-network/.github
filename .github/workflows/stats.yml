@@ -42,9 +42,9 @@ jobs:
           plugin_habits_facts: yes                # Display facts section
           plugin_habits_charts: yes               # Display charts section
 
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.METRICS_TOKEN }}
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: "True"
+#       - uses: anmol098/waka-readme-stats@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.METRICS_TOKEN }}
+#           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+#           SHOW_PROJECTS: "False"
+#           SHOW_LINES_OF_CODE: "True"
