@@ -22,6 +22,8 @@ Telegram：https://t.me/rebasenetwork
 
 微信公众号：**rebase_network**  ||  QQ群：**1001507060**
 
+[协作文档](https://shimo.im/space/loqeMGmL7wiMgvqn)
+
 ---
 
 Rebase 社区当前接受捐赠多签地址如下
