@@ -24,7 +24,7 @@ YouTube: https://www.youtube.com/@rebasecommunity
 
 **Telegram: https://t.me/rebasenetwork**
 
-[协作文档](https://shimo.im/space/loqeMGmL7wiMgvqn)
+[协作文档](https://shimo.im/space/loqeMGmL7wiMgvqn) [媒体资源](https://github.com/rebase-network/media-kit)
 
 ---
 
